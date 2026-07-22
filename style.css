@@ -1,0 +1,99 @@
+.navBar2{
+    height: 50px;
+    width: 1460px;
+    background-color: rgba(27, 53, 56, 0.26);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 30px;
+    padding: 30px;
+    border-radius: 20px;
+}
+.mainbox{
+    display: flex;
+    flex-direction: column;
+}
+
+.left{
+    display: flex;    
+}
+.left a{
+    font-weight: bolder;
+    text-decoration: none;
+}
+.White{
+    color: snow;
+}
+.Blue{
+    color: aqua;
+}
+.center{
+    font-weight: bold;
+     word-spacing: 20px;
+}
+.center a{
+    color: beige;
+    text-decoration: none;
+}
+.right{
+    font-weight: bold;
+    background-color: bisque;
+    height: 36px;
+    padding: 7px;
+    border-radius: 20px;
+    
+}
+.right a{
+    text-decoration: none;
+    color: rgba(17, 39, 72, 0.893);
+}
+.navBar3{
+    display: flex;
+    background-color: aliceblue;
+    height: 40vh;
+    width: 100%;
+    justify-content: center;
+}    
+h1{
+    width: 300px;
+    margin-bottom: 0px;
+}
+.left2{
+    margin: 0px 90px;
+    display: flex;
+    width: 600px;
+    gap: 0px;
+    flex-direction: column;
+}
+h2{
+    font-size: 35px;
+    margin-top: 0px;
+    color: violet;
+    margin-bottom: 0%;
+}
+h3{
+    margin-top: 0%;
+    font-size: 15px;
+    width: 300px;
+    color: rgba(87, 134, 134, 0.768)
+}
+.underleft{
+    display: flex;    
+    gap: 30px;
+}
+.underleft a1{
+    background-color: rgb(0, 132, 255);
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.underleft a2{
+    background-color: rgba(216, 227, 238, 0.684);
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: rgb(0, 123, 255);
+}
+.img img{
+    height: 40vh;
+    width: 600px;
+}
